@@ -1,0 +1,58 @@
+{
+  "id": "1428203",
+  "name": "lh1010",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7964497",
+      "name": "密码",
+      "font_class": "mima1",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "3832831",
+      "name": "文件",
+      "font_class": "wenjian3",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "11391534",
+      "name": "文件",
+      "font_class": "wenjian7",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "7644",
+      "name": "文件夹",
+      "font_class": "wenjianjiai",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "339043",
+      "name": "向上",
+      "font_class": "xiangshang",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1395868",
+      "name": "向下",
+      "font_class": "xiangxia",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "2127156",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
